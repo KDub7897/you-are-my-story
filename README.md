@@ -72,4 +72,4 @@ Filename map: `public/images/README.txt`.
 ---
 
 Goodnight my lil lover.
- "Commit changes" 
+ Commit Changes
